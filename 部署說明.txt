@@ -1,0 +1,19 @@
+聊天紀錄智慧排序工具｜iPhone 網頁版
+
+此資料夾是可部署的 PWA 網站，不是已經上線的網址。
+
+免費上線方式（GitHub Pages）：
+1. 登入 GitHub，建立一個公開 Repository。
+2. 將本資料夾內的 index.html、sw.js、manifest.webmanifest、icon-192.png、icon-512.png 上傳至儲存庫根目錄。
+3. Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save。
+4. 等待部署完成，使用 GitHub Pages 提供的 HTTPS 網址，以 iPhone Safari 開啟。
+5. Safari 分享 → 加入主畫面。首次連網開啟並完成快取後，可嘗試離線使用。
+
+重要：
+- 不要把刑案照片上傳到 GitHub；只上傳程式檔案。
+- 照片由瀏覽器在裝置本機處理，網站程式本身不會上傳照片。
+- iPhone 的儲存容量、記憶體、PDF 列印和背景清理仍可能限制大量照片操作；不能保證任何 iPhone、任何情況都正常。
+- 此版沒有 OCR 或 AI 語意排序功能，只有檔名、檔案時間及人工排序。
+- PDF 功能目前使用瀏覽器列印，iPhone 可能需從列印預覽分享／儲存為 PDF。
+- 請先用非敏感測試照片驗證匯入、儲存、ZIP、PDF。
+- 瀏覽器本機資料可能被系統清除，請勿作為證據唯一保存位置。
